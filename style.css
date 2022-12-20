@@ -1,0 +1,22 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+html,body{
+    height: 100%;
+    width: 100%;
+  font-family: roboto;
+}
+
+.button{
+    padding: 15px;
+    margin: 0 3px;
+    border:2px solid black ;
+    border-radius: 9px;
+  cursor:pointer;
+  font-family: roboto;
+}
+.row{
+    margin: 5px 0px;
+}
+.row.input{
+  margin: 10px;
+  font-size-adjust: 2rem;
+}
